@@ -1,0 +1,10 @@
+C:\Users\peter\source\repos\Downloader\Downloader\bin\Debug\Downloader.exe.config
+C:\Users\peter\source\repos\Downloader\Downloader\bin\Debug\Downloader.exe
+C:\Users\peter\source\repos\Downloader\Downloader\bin\Debug\Downloader.pdb
+C:\Users\peter\source\repos\Downloader\Downloader\obj\Debug\Downloader.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\Downloader\Downloader\obj\Debug\Downloader.Main.resources
+C:\Users\peter\source\repos\Downloader\Downloader\obj\Debug\Downloader.Properties.Resources.resources
+C:\Users\peter\source\repos\Downloader\Downloader\obj\Debug\Downloader.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\Downloader\Downloader\obj\Debug\Downloader.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\Downloader\Downloader\obj\Debug\Downloader.exe
+C:\Users\peter\source\repos\Downloader\Downloader\obj\Debug\Downloader.pdb
